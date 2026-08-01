@@ -1,2 +1,2 @@
 # IcesugarPolySynth
-[![View PDF](https://shields.io)](IcesugarPolySynth/IcesugarPolySynth.pdf)
+[![View PDF](https://shields.io)](IcesugarPolySynth.pdf)
